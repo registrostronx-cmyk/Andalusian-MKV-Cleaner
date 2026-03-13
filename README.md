@@ -36,7 +36,7 @@ Perfect for:
 
 ## 📸 Screenshot
 
-> *(Add a screenshot of the app here)*
+![Screenshot](screenshot.jpg)
 
 ---
 
