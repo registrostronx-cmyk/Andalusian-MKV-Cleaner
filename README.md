@@ -42,7 +42,7 @@ Perfect for:
 
 ## 🔧 Requirements
 
-- Windows 10 or later
+- Windows 10 or later (x64)
 - [MKVToolNix](https://mkvtoolnix.download/) installed (provides `mkvmerge.exe`)
 - .NET 8.0 Runtime ([download here](https://dotnet.microsoft.com/download/dotnet/8.0))
 
