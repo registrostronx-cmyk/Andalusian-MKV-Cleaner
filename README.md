@@ -36,7 +36,7 @@ Perfect for:
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ---
 
