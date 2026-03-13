@@ -8,6 +8,13 @@
 
 ---
 
+### 🌍 Language / Idioma
+My native language is **Spanish** 🇪🇸. The English content in this repository is translated. I appreciate your patience and welcome any corrections via Issues or Pull Requests!
+
+Mi idioma materno es el **español** 🇪🇸. El contenido en inglés de este repositorio es traducido. ¡Agradezco tu paciencia y acepto cualquier corrección mediante Issues o Pull Requests!
+
+---
+
 ## 📋 Description
 
 Andalusian MKV Cleaner is a free Windows application that lets you clean up MKV files by removing unwanted tracks (audio, subtitles, video) from multiple files at once. It uses **mkvmerge** (part of MKVToolNix) as its processing engine.
