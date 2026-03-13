@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>MKVCleaner</AssemblyName>
+    <RootNamespace>MKVCleaner</RootNamespace>
+    <ApplicationIcon>AMKVC.ico</ApplicationIcon>
+    <StartupObject>MKVCleaner.Program</StartupObject>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <WarningLevel>3</WarningLevel>
+	<DebugType>none</DebugType>
+	<SatelliteResourceLanguages>en;es</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="AMKVC.png" />
+    <EmbeddedResource Include="AMKVC.ico" />
+  </ItemGroup>
+
+</Project>
