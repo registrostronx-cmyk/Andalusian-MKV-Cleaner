@@ -40,6 +40,32 @@ Perfect for:
 
 ---
 
+## ⚠️ Instalación y Seguridad / Installation & Safety
+
+### Castellano
+Es posible que al ejecutar **AndalusianMKVCleaner.exe**, Windows muestre un aviso de **SmartScreen** ("Windows protegió su PC"). 
+
+**¿Por qué aparece esto?**
+Este mensaje aparece porque el ejecutable no tiene una firma digital de pago (Certificado de Desarrollador). Al ser un proyecto de código abierto e independiente, Microsoft aún no reconoce la "reputación" del archivo. **El programa es totalmente seguro.**
+
+**Cómo ejecutarlo:**
+1. Haz clic en **"Más información"** (More info).
+2. Pulsa el botón **"Ejecutar de todos modos"** (Run anyway).
+
+---
+
+### English
+When running **AndalusianMKVCleaner.exe**, you might see a **Windows SmartScreen** warning ("Windows protected your PC").
+
+**Why is this happening?**
+This occurs because the executable is not signed with a paid Developer Certificate. As this is an independent open-source project, Microsoft hasn't established a "reputation" for the file yet. **The software is completely safe to use.**
+
+**How to proceed:**
+1. Click on **"More info"**.
+2. Click the **"Run anyway"** button.
+
+---
+
 ## 🔧 Requirements
 
 - Windows 10 or later (x64)
